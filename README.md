@@ -21,14 +21,17 @@ terraform output
 
 ## Ref
 
+1. [Manage Your Google Workspace Organization | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/tutorials/it-saas/google-workspace)
+2. [Terraform Registry - Google](https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/getting_started)
+
 ## Contribute
 
 * [LICENSE](LICENSE)
 * [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 
-<a href="https://github.com/an/template-playground/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=androchentw/template-playground" />
+<a href="https://github.com/an/terraform-playground/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=androchentw/terraform-playground" />
 </a>
 
 <!-- Links -->
