@@ -1,4 +1,4 @@
-# Template Playground
+# Terraform Playground
 
 <p align="center">
   <img style="width:60%;" src="https://i.imgur.com/Qe3Dzt6.png">
