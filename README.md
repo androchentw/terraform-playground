@@ -1,5 +1,7 @@
 # Terraform Playground
 
+<img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+
 <p align="center">
   <img style="width:60%;" src="https://i.imgur.com/Qe3Dzt6.png">
   <br/>
